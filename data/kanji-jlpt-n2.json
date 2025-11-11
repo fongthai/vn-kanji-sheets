@@ -1,0 +1,2573 @@
+{
+    "kanji": [
+        {
+            "category": "jlptn2",
+            "character": "党",
+            "onyomi": "トウ",
+            "kunyomi": "なかま むら",
+            "meaning": "party, faction, clique"
+        },
+        {
+            "category": "jlptn2",
+            "character": "協",
+            "onyomi": "キョウ",
+            "kunyomi": "",
+            "meaning": "co-, cooperation"
+        },
+        {
+            "category": "jlptn2",
+            "character": "総",
+            "onyomi": "ソウ フ",
+            "kunyomi": "す.べて すべ.て",
+            "meaning": "general, whole, all, full, total"
+        },
+        {
+            "category": "jlptn2",
+            "character": "区",
+            "onyomi": "ク オウ コウ",
+            "kunyomi": "",
+            "meaning": "ward, district"
+        },
+        {
+            "category": "jlptn2",
+            "character": "領",
+            "onyomi": "リョウ",
+            "kunyomi": "",
+            "meaning": "jurisdiction, dominion, territory, fief, reign"
+        },
+        {
+            "category": "jlptn2",
+            "character": "県",
+            "onyomi": "ケン カ.ケ",
+            "kunyomi": "",
+            "meaning": "prefecture"
+        },
+        {
+            "category": "jlptn2",
+            "character": "設",
+            "onyomi": "セツ モウ.ケ",
+            "kunyomi": "",
+            "meaning": "establishment, provision, prepare"
+        },
+        {
+            "category": "jlptn2",
+            "character": "改",
+            "onyomi": "カイ",
+            "kunyomi": "あらた.める あらた.まる",
+            "meaning": "reformation, change, modify, mend, renew, examine, inspect, search"
+        },
+        {
+            "category": "jlptn2",
+            "character": "府",
+            "onyomi": "",
+            "kunyomi": "",
+            "meaning": "borough, urban prefecture, govt office, representative body, storehouse"
+        },
+        {
+            "category": "jlptn2",
+            "character": "査",
+            "onyomi": "サ",
+            "kunyomi": "",
+            "meaning": "investigate"
+        },
+        {
+            "category": "jlptn2",
+            "character": "委",
+            "onyomi": "イ ユダ.ネ",
+            "kunyomi": "",
+            "meaning": "committee, entrust to, leave to, devote, discard"
+        },
+        {
+            "category": "jlptn2",
+            "character": "軍",
+            "onyomi": "グン",
+            "kunyomi": "",
+            "meaning": "army, force, troops, war, battle"
+        },
+        {
+            "category": "jlptn2",
+            "character": "団",
+            "onyomi": "ダン トン",
+            "kunyomi": "かたまり まる.い",
+            "meaning": "group, association"
+        },
+        {
+            "category": "jlptn2",
+            "character": "各",
+            "onyomi": "カク オノオ",
+            "kunyomi": "",
+            "meaning": "each, every, either"
+        },
+        {
+            "category": "jlptn2",
+            "character": "島",
+            "onyomi": "トウ",
+            "kunyomi": "しま",
+            "meaning": "island"
+        },
+        {
+            "category": "jlptn2",
+            "character": "革",
+            "onyomi": "カク",
+            "kunyomi": "かわ",
+            "meaning": "leather, become serious, skin, hide, pelt"
+        },
+        {
+            "category": "jlptn2",
+            "character": "村",
+            "onyomi": "ソン ム",
+            "kunyomi": "",
+            "meaning": "town, village"
+        },
+        {
+            "category": "jlptn2",
+            "character": "勢",
+            "onyomi": "セイ ゼイ ハズ",
+            "kunyomi": "いきお.い",
+            "meaning": "forces, energy, military strength"
+        },
+        {
+            "category": "jlptn2",
+            "character": "減",
+            "onyomi": "ゲン",
+            "kunyomi": "へ.る へ.らす",
+            "meaning": "dwindle, decrease, reduce, decline, curtail, get hungry"
+        },
+        {
+            "category": "jlptn2",
+            "character": "再",
+            "onyomi": "サイ サ フタタ.",
+            "kunyomi": "",
+            "meaning": "again, twice, second time"
+        },
+        {
+            "category": "jlptn2",
+            "character": "税",
+            "onyomi": "ゼ",
+            "kunyomi": "",
+            "meaning": "tax, duty"
+        },
+        {
+            "category": "jlptn2",
+            "character": "営",
+            "onyomi": "エイ",
+            "kunyomi": "いとな.む いとな.み",
+            "meaning": "occupation, camp, perform, build, conduct (business)"
+        },
+        {
+            "category": "jlptn2",
+            "character": "比",
+            "onyomi": "ヒ クラ.ベ",
+            "kunyomi": "",
+            "meaning": "compare, race, ratio, Philipines"
+        },
+        {
+            "category": "jlptn2",
+            "character": "防",
+            "onyomi": "ボウ フセ.",
+            "kunyomi": "",
+            "meaning": "ward off, defend, protect, resist"
+        },
+        {
+            "category": "jlptn2",
+            "character": "補",
+            "onyomi": "ホ",
+            "kunyomi": "おぎな.う",
+            "meaning": "supplement, supply, make good, offset, compensate, assistant, learner"
+        },
+        {
+            "category": "jlptn2",
+            "character": "境",
+            "onyomi": "キョウ ケイ サカ",
+            "kunyomi": "",
+            "meaning": "boundary, border, region"
+        },
+        {
+            "category": "jlptn2",
+            "character": "導",
+            "onyomi": "ドウ ミチビ.",
+            "kunyomi": "",
+            "meaning": "guidance, leading, conduct, usher"
+        },
+        {
+            "category": "jlptn2",
+            "character": "副",
+            "onyomi": "フ",
+            "kunyomi": "",
+            "meaning": "vice-, duplicate, copy"
+        },
+        {
+            "category": "jlptn2",
+            "character": "算",
+            "onyomi": "サン",
+            "kunyomi": "そろ",
+            "meaning": "calculate, divining, number, abacus, probability"
+        },
+        {
+            "category": "jlptn2",
+            "character": "輸",
+            "onyomi": "ユ シュ",
+            "kunyomi": "",
+            "meaning": "transport, send, be inferior"
+        },
+        {
+            "category": "jlptn2",
+            "character": "述",
+            "onyomi": "ジュツ",
+            "kunyomi": "の.べる",
+            "meaning": "mention, state, speak, relate"
+        },
+        {
+            "category": "jlptn2",
+            "character": "線",
+            "onyomi": "セン",
+            "kunyomi": "すじ",
+            "meaning": "line, track"
+        },
+        {
+            "category": "jlptn2",
+            "character": "農",
+            "onyomi": "ノ",
+            "kunyomi": "",
+            "meaning": "agriculture, farmers"
+        },
+        {
+            "category": "jlptn2",
+            "character": "州",
+            "onyomi": "シュウ ス",
+            "kunyomi": "",
+            "meaning": "state, province"
+        },
+        {
+            "category": "jlptn2",
+            "character": "武",
+            "onyomi": "ブ ム タケ.",
+            "kunyomi": "",
+            "meaning": "warrior, military, chivalry, arms"
+        },
+        {
+            "category": "jlptn2",
+            "character": "象",
+            "onyomi": "ショウ ゾウ カタド.",
+            "kunyomi": "",
+            "meaning": "elephant, pattern after, imitate, image, shape, sign (of the times)"
+        },
+        {
+            "category": "jlptn2",
+            "character": "域",
+            "onyomi": "イキ",
+            "kunyomi": "",
+            "meaning": "range, region, limits, stage, level"
+        },
+        {
+            "category": "jlptn2",
+            "character": "額",
+            "onyomi": "ガク ヒタ",
+            "kunyomi": "",
+            "meaning": "forehead, tablet, plaque, framed picture, sum, amount, volume"
+        },
+        {
+            "category": "jlptn2",
+            "character": "欧",
+            "onyomi": "オウ ハ.",
+            "kunyomi": "うた.う",
+            "meaning": "Europe"
+        },
+        {
+            "category": "jlptn2",
+            "character": "担",
+            "onyomi": "タン",
+            "kunyomi": "かつ.ぐ にな.う",
+            "meaning": "shouldering, carry, raise, bear"
+        },
+        {
+            "category": "jlptn2",
+            "character": "準",
+            "onyomi": "ジュン",
+            "kunyomi": "じゅん.じる じゅん.ずる なぞら.える のり ひと.しい みずもり",
+            "meaning": "semi-, correspond to, proportionate to, conform, imitate"
+        },
+        {
+            "category": "jlptn2",
+            "character": "賞",
+            "onyomi": "ショウ",
+            "kunyomi": "ほ.める",
+            "meaning": "prize, reward, praise"
+        },
+        {
+            "category": "jlptn2",
+            "character": "辺",
+            "onyomi": "ヘン -",
+            "kunyomi": "あた.り ほと.り",
+            "meaning": "environs, boundary, border, vicinity"
+        },
+        {
+            "category": "jlptn2",
+            "character": "造",
+            "onyomi": "ゾウ -ヅク.",
+            "kunyomi": "つく.る つく.り",
+            "meaning": "create, make, structure, physique"
+        },
+        {
+            "category": "jlptn2",
+            "character": "被",
+            "onyomi": "ヒ カブ.セ",
+            "kunyomi": "こうむ.る おお.う かぶ.る",
+            "meaning": "incur, cover, veil, brood over, shelter, wear, put on, be exposed (film), receiving"
+        },
+        {
+            "category": "jlptn2",
+            "character": "技",
+            "onyomi": "ギ",
+            "kunyomi": "わざ",
+            "meaning": "skill, art, craft, ability, feat, performance, vocation, arts"
+        },
+        {
+            "category": "jlptn2",
+            "character": "低",
+            "onyomi": "テイ",
+            "kunyomi": "ひく.い ひく.める ひく.まる",
+            "meaning": "lower, short, humble"
+        },
+        {
+            "category": "jlptn2",
+            "character": "復",
+            "onyomi": "フク",
+            "kunyomi": "また",
+            "meaning": "restore, return to, revert, resume"
+        },
+        {
+            "category": "jlptn2",
+            "character": "移",
+            "onyomi": "イ",
+            "kunyomi": "うつ.る うつ.す",
+            "meaning": "shift, move, change, drift, catch (cold, fire), pass into"
+        },
+        {
+            "category": "jlptn2",
+            "character": "個",
+            "onyomi": "コ カ",
+            "kunyomi": "",
+            "meaning": "individual, counter for articles and military units"
+        },
+        {
+            "category": "jlptn2",
+            "character": "門",
+            "onyomi": "モン",
+            "kunyomi": "かど",
+            "meaning": "gates"
+        },
+        {
+            "category": "jlptn2",
+            "character": "課",
+            "onyomi": "カ",
+            "kunyomi": "",
+            "meaning": "chapter, lesson, section, department, division, counter for chapters (of a book)"
+        },
+        {
+            "category": "jlptn2",
+            "character": "脳",
+            "onyomi": "ノウ ドウ",
+            "kunyomi": "のうずる",
+            "meaning": "brain, memory"
+        },
+        {
+            "category": "jlptn2",
+            "character": "極",
+            "onyomi": "キョク ゴク",
+            "kunyomi": "きわ.める きわ.まる きわ.まり きわ.み き.める -ぎ.め き.まる",
+            "meaning": "poles, settlement, conclusion, end, highest rank, electric poles, very, extremely, most, highly, 10**48"
+        },
+        {
+            "category": "jlptn2",
+            "character": "含",
+            "onyomi": "ガン",
+            "kunyomi": "ふく.む ふく.める",
+            "meaning": "include, bear in mind, understand, cherish"
+        },
+        {
+            "category": "jlptn2",
+            "character": "蔵",
+            "onyomi": "ゾウ ソウ カク.レ",
+            "kunyomi": "くら おさ.める",
+            "meaning": "storehouse, hide, own, have, possess"
+        },
+        {
+            "category": "jlptn2",
+            "character": "量",
+            "onyomi": "リョウ ハカ.",
+            "kunyomi": "",
+            "meaning": "quantity, measure, weight, amount, consider, estimate, surmise"
+        },
+        {
+            "category": "jlptn2",
+            "character": "型",
+            "onyomi": "ケイ",
+            "kunyomi": "かた -がた",
+            "meaning": "mould, type, model"
+        },
+        {
+            "category": "jlptn2",
+            "character": "況",
+            "onyomi": "キョウ",
+            "kunyomi": "まし.て いわ.んや おもむき",
+            "meaning": "condition, situation"
+        },
+        {
+            "category": "jlptn2",
+            "character": "針",
+            "onyomi": "シン ハ",
+            "kunyomi": "",
+            "meaning": "needle, pin, staple, stinger"
+        },
+        {
+            "category": "jlptn2",
+            "character": "専",
+            "onyomi": "セン",
+            "kunyomi": "もっぱ.ら",
+            "meaning": "specialty, exclusive, mainly, solely"
+        },
+        {
+            "category": "jlptn2",
+            "character": "谷",
+            "onyomi": "コク キワ.マ",
+            "kunyomi": "たに",
+            "meaning": "valley"
+        },
+        {
+            "category": "jlptn2",
+            "character": "史",
+            "onyomi": "",
+            "kunyomi": "",
+            "meaning": "history, chronicle"
+        },
+        {
+            "category": "jlptn2",
+            "character": "階",
+            "onyomi": "カイ キザハ",
+            "kunyomi": "",
+            "meaning": "storey, stair, counter for storeys of a building"
+        },
+        {
+            "category": "jlptn2",
+            "character": "管",
+            "onyomi": "カン ク",
+            "kunyomi": "",
+            "meaning": "pipe, tube, wind instrument, drunken talk"
+        },
+        {
+            "category": "jlptn2",
+            "character": "兵",
+            "onyomi": "ヘイ ヒョウ ツワモ",
+            "kunyomi": "",
+            "meaning": "soldier, private, troops, army, warfare, strategy, tactics"
+        },
+        {
+            "category": "jlptn2",
+            "character": "接",
+            "onyomi": "セツ ショウ",
+            "kunyomi": "つ.ぐ",
+            "meaning": "touch, contact, adjoin, piece together"
+        },
+        {
+            "category": "jlptn2",
+            "character": "細",
+            "onyomi": "サイ",
+            "kunyomi": "ほそ.い ほそ.る こま.か こま.かい",
+            "meaning": "dainty, get thin, taper, slender, narrow"
+        },
+        {
+            "category": "jlptn2",
+            "character": "効",
+            "onyomi": "コウ",
+            "kunyomi": "き.く ききめ なら.う",
+            "meaning": "merit, efficacy, efficiency, benefit"
+        },
+        {
+            "category": "jlptn2",
+            "character": "丸",
+            "onyomi": "ガン マル.",
+            "kunyomi": "まる まる.める",
+            "meaning": "round, full, month, perfection, -ship, pills, make round, roll up, curl up, seduce, explain away"
+        },
+        {
+            "category": "jlptn2",
+            "character": "湾",
+            "onyomi": "ワン",
+            "kunyomi": "いりえ",
+            "meaning": "gulf, bay, inlet"
+        },
+        {
+            "category": "jlptn2",
+            "character": "録",
+            "onyomi": "ロク",
+            "kunyomi": "",
+            "meaning": "record"
+        },
+        {
+            "category": "jlptn2",
+            "character": "省",
+            "onyomi": "セイ ショウ ハブ.",
+            "kunyomi": "かえり.みる",
+            "meaning": "focus, government ministry, conserve"
+        },
+        {
+            "category": "jlptn2",
+            "character": "旧",
+            "onyomi": "キュウ",
+            "kunyomi": "ふる.い もと",
+            "meaning": "old times, old things, old friend, former, ex-"
+        },
+        {
+            "category": "jlptn2",
+            "character": "橋",
+            "onyomi": "キョウ ハ",
+            "kunyomi": "",
+            "meaning": "bridge"
+        },
+        {
+            "category": "jlptn2",
+            "character": "岸",
+            "onyomi": "ガン キ",
+            "kunyomi": "",
+            "meaning": "beach"
+        },
+        {
+            "category": "jlptn2",
+            "character": "周",
+            "onyomi": "シュウ マワ.",
+            "kunyomi": "",
+            "meaning": "circumference, circuit, lap"
+        },
+        {
+            "category": "jlptn2",
+            "character": "材",
+            "onyomi": "ザ",
+            "kunyomi": "",
+            "meaning": "lumber, log, timber, wood, talent"
+        },
+        {
+            "category": "jlptn2",
+            "character": "戸",
+            "onyomi": "コ",
+            "kunyomi": "",
+            "meaning": "door"
+        },
+        {
+            "category": "jlptn2",
+            "character": "央",
+            "onyomi": "オ",
+            "kunyomi": "",
+            "meaning": "center, middle"
+        },
+        {
+            "category": "jlptn2",
+            "character": "券",
+            "onyomi": "ケン",
+            "kunyomi": "",
+            "meaning": "ticket"
+        },
+        {
+            "category": "jlptn2",
+            "character": "編",
+            "onyomi": "ヘン",
+            "kunyomi": "あ.む -あ.み",
+            "meaning": "compilation, knit, plait, braid, twist, editing, completed poem, part of a book"
+        },
+        {
+            "category": "jlptn2",
+            "character": "捜",
+            "onyomi": "ソウ シュ シュウ",
+            "kunyomi": "さが.す",
+            "meaning": "search, look for, locate"
+        },
+        {
+            "category": "jlptn2",
+            "character": "竹",
+            "onyomi": "チク タ",
+            "kunyomi": "",
+            "meaning": "bamboo"
+        },
+        {
+            "category": "jlptn2",
+            "character": "超",
+            "onyomi": "チョウ コ.",
+            "kunyomi": "こ.える",
+            "meaning": "transcend, super-, ultra-"
+        },
+        {
+            "category": "jlptn2",
+            "character": "並",
+            "onyomi": "ヘイ ホウ ナラ.ビ",
+            "kunyomi": "な.み なら.べる なら.ぶ",
+            "meaning": "row, and, besides, as well as, line up, rank with, rival, equal"
+        },
+        {
+            "category": "jlptn2",
+            "character": "療",
+            "onyomi": "リョウ",
+            "kunyomi": "",
+            "meaning": "heal, cure"
+        },
+        {
+            "category": "jlptn2",
+            "character": "採",
+            "onyomi": "サイ",
+            "kunyomi": "と.る",
+            "meaning": "pick, take, fetch, take up"
+        },
+        {
+            "category": "jlptn2",
+            "character": "森",
+            "onyomi": "シン モ",
+            "kunyomi": "",
+            "meaning": "forest, woods"
+        },
+        {
+            "category": "jlptn2",
+            "character": "競",
+            "onyomi": "キョウ ケイ セ.",
+            "kunyomi": "きそ.う",
+            "meaning": "emulate, compete with, bid, sell at auction, bout, contest, race"
+        },
+        {
+            "category": "jlptn2",
+            "character": "介",
+            "onyomi": "カ",
+            "kunyomi": "",
+            "meaning": "jammed in, shellfish, mediate, concern oneself with"
+        },
+        {
+            "category": "jlptn2",
+            "character": "根",
+            "onyomi": "コン",
+            "kunyomi": "ね -ね",
+            "meaning": "root, radical, head (pimple)"
+        },
+        {
+            "category": "jlptn2",
+            "character": "販",
+            "onyomi": "ハン",
+            "kunyomi": "",
+            "meaning": "marketing, sell, trade"
+        },
+        {
+            "category": "jlptn2",
+            "character": "歴",
+            "onyomi": "レキ レッキ",
+            "kunyomi": "",
+            "meaning": "curriculum, continuation, passage of time"
+        },
+        {
+            "category": "jlptn2",
+            "character": "将",
+            "onyomi": "ショウ ソウ モッ",
+            "kunyomi": "まさ.に はた まさ ひきい.る",
+            "meaning": "leader, commander, general, admiral, or, and again, soon, from now on, just about"
+        },
+        {
+            "category": "jlptn2",
+            "character": "幅",
+            "onyomi": "フク",
+            "kunyomi": "はば",
+            "meaning": "hanging scroll, width"
+        },
+        {
+            "category": "jlptn2",
+            "character": "般",
+            "onyomi": "ハン",
+            "kunyomi": "",
+            "meaning": "carrier, carry, all"
+        },
+        {
+            "category": "jlptn2",
+            "character": "貿",
+            "onyomi": "ボウ",
+            "kunyomi": "",
+            "meaning": "trade, exchange"
+        },
+        {
+            "category": "jlptn2",
+            "character": "講",
+            "onyomi": "コウ",
+            "kunyomi": "",
+            "meaning": "lecture, club, association"
+        },
+        {
+            "category": "jlptn2",
+            "character": "林",
+            "onyomi": "リン ハヤ",
+            "kunyomi": "",
+            "meaning": "grove, forest"
+        },
+        {
+            "category": "jlptn2",
+            "character": "装",
+            "onyomi": "ソウ ショウ",
+            "kunyomi": "よそお.う よそお.い",
+            "meaning": "attire, dress, pretend, disguise, profess"
+        },
+        {
+            "category": "jlptn2",
+            "character": "諸",
+            "onyomi": "ショ",
+            "kunyomi": "もろ",
+            "meaning": "various, many, several, together"
+        },
+        {
+            "category": "jlptn2",
+            "character": "劇",
+            "onyomi": "ゲキ",
+            "kunyomi": "",
+            "meaning": "drama, play"
+        },
+        {
+            "category": "jlptn2",
+            "character": "河",
+            "onyomi": "カ カ",
+            "kunyomi": "",
+            "meaning": "river"
+        },
+        {
+            "category": "jlptn2",
+            "character": "航",
+            "onyomi": "コ",
+            "kunyomi": "",
+            "meaning": "navigate, sail, cruise, fly"
+        },
+        {
+            "category": "jlptn2",
+            "character": "鉄",
+            "onyomi": "テツ クロガ",
+            "kunyomi": "",
+            "meaning": "iron"
+        },
+        {
+            "category": "jlptn2",
+            "character": "児",
+            "onyomi": "ジ ニ ゲイ -ッ",
+            "kunyomi": "こ -こ",
+            "meaning": "newborn babe, child, young of animals"
+        },
+        {
+            "category": "jlptn2",
+            "character": "禁",
+            "onyomi": "キン",
+            "kunyomi": "",
+            "meaning": "prohibition, ban, forbid"
+        },
+        {
+            "category": "jlptn2",
+            "character": "印",
+            "onyomi": "イン",
+            "kunyomi": "しるし -じるし しる.す",
+            "meaning": "stamp, seal, mark, imprint, symbol, emblem, trademark, evidence, souvenir, India"
+        },
+        {
+            "category": "jlptn2",
+            "character": "逆",
+            "onyomi": "ギャク ゲキ",
+            "kunyomi": "さか さか.さ さか.らう",
+            "meaning": "inverted, reverse, opposite, wicked"
+        },
+        {
+            "category": "jlptn2",
+            "character": "換",
+            "onyomi": "カン",
+            "kunyomi": "か.える -か.える か.わる",
+            "meaning": "interchange, period, charge, change?"
+        },
+        {
+            "category": "jlptn2",
+            "character": "久",
+            "onyomi": "キュウ ク ヒサ.シ",
+            "kunyomi": "",
+            "meaning": "long time, old story"
+        },
+        {
+            "category": "jlptn2",
+            "character": "短",
+            "onyomi": "タン",
+            "kunyomi": "みじか.い",
+            "meaning": "short, brevity, fault, defect, weak point"
+        },
+        {
+            "category": "jlptn2",
+            "character": "油",
+            "onyomi": "ユ ユウ",
+            "kunyomi": "あぶら",
+            "meaning": "oil, fat"
+        },
+        {
+            "category": "jlptn2",
+            "character": "暴",
+            "onyomi": "ボウ バク",
+            "kunyomi": "あば.く あば.れる",
+            "meaning": "outburst, rave, fret, force, violence, cruelty, outrage"
+        },
+        {
+            "category": "jlptn2",
+            "character": "輪",
+            "onyomi": "リン",
+            "kunyomi": "",
+            "meaning": "wheel, ring, circle, link, loop, counter for wheels and flowers"
+        },
+        {
+            "category": "jlptn2",
+            "character": "占",
+            "onyomi": "セン ウラナ.",
+            "kunyomi": "し.める",
+            "meaning": "fortune-telling, divining, forecasting, occupy, hold, have, get, take"
+        },
+        {
+            "category": "jlptn2",
+            "character": "植",
+            "onyomi": "ショク ウ.ワ",
+            "kunyomi": "う.える",
+            "meaning": "plant"
+        },
+        {
+            "category": "jlptn2",
+            "character": "清",
+            "onyomi": "セイ ショウ シン キヨ.メ",
+            "kunyomi": "きよ.い きよ.まる",
+            "meaning": "pure, purify, cleanse, exorcise, Manchu dynasty"
+        },
+        {
+            "category": "jlptn2",
+            "character": "倍",
+            "onyomi": "バ",
+            "kunyomi": "",
+            "meaning": "double, twice, times, fold"
+        },
+        {
+            "category": "jlptn2",
+            "character": "均",
+            "onyomi": "キン ナラ.",
+            "kunyomi": "",
+            "meaning": "level, average"
+        },
+        {
+            "category": "jlptn2",
+            "character": "億",
+            "onyomi": "オ",
+            "kunyomi": "",
+            "meaning": "hundred million, 10**8"
+        },
+        {
+            "category": "jlptn2",
+            "character": "圧",
+            "onyomi": "アツ エン オウ",
+            "kunyomi": "お.す へ.す おさ.える お.さえる",
+            "meaning": "pressure, push, overwhelm, oppress, dominate"
+        },
+        {
+            "category": "jlptn2",
+            "character": "芸",
+            "onyomi": "ゲイ ウン ワ",
+            "kunyomi": "う.える のり",
+            "meaning": "technique, art, craft, performance, acting, trick, stunt"
+        },
+        {
+            "category": "jlptn2",
+            "character": "署",
+            "onyomi": "ショ",
+            "kunyomi": "",
+            "meaning": "signature, govt office, police station"
+        },
+        {
+            "category": "jlptn2",
+            "character": "伸",
+            "onyomi": "シン ノ.",
+            "kunyomi": "の.びる の.ばす の.べる",
+            "meaning": "expand, stretch, extend, lengthen, increase"
+        },
+        {
+            "category": "jlptn2",
+            "character": "停",
+            "onyomi": "テイ",
+            "kunyomi": "と.める と.まる",
+            "meaning": "halt, stopping"
+        },
+        {
+            "category": "jlptn2",
+            "character": "爆",
+            "onyomi": "バク",
+            "kunyomi": "は.ぜる",
+            "meaning": "bomb, burst open, pop, split"
+        },
+        {
+            "category": "jlptn2",
+            "character": "陸",
+            "onyomi": "リク ロク オ",
+            "kunyomi": "",
+            "meaning": "land, six"
+        },
+        {
+            "category": "jlptn2",
+            "character": "玉",
+            "onyomi": "ギョク -ダ",
+            "kunyomi": "たま たま-",
+            "meaning": "jewel, ball"
+        },
+        {
+            "category": "jlptn2",
+            "character": "波",
+            "onyomi": "ハ ナ",
+            "kunyomi": "",
+            "meaning": "waves, billows, Poland"
+        },
+        {
+            "category": "jlptn2",
+            "character": "帯",
+            "onyomi": "タイ オ",
+            "kunyomi": "お.びる",
+            "meaning": "sash, belt, obi, zone, region"
+        },
+        {
+            "category": "jlptn2",
+            "character": "延",
+            "onyomi": "エン ノ.バ",
+            "kunyomi": "の.びる の.べる の.べ",
+            "meaning": "prolong, stretching"
+        },
+        {
+            "category": "jlptn2",
+            "character": "羽",
+            "onyomi": "ウ ハ",
+            "kunyomi": "は わ",
+            "meaning": "feathers, counter for birds, rabbits"
+        },
+        {
+            "category": "jlptn2",
+            "character": "固",
+            "onyomi": "コ",
+            "kunyomi": "かた.める かた.まる かた.まり かた.い",
+            "meaning": "harden, set, clot, curdle"
+        },
+        {
+            "category": "jlptn2",
+            "character": "則",
+            "onyomi": "ソク ノット.",
+            "kunyomi": "",
+            "meaning": "rule, follow, based on, model after"
+        },
+        {
+            "category": "jlptn2",
+            "character": "乱",
+            "onyomi": "ラン ロン ワタ.",
+            "kunyomi": "みだ.れる みだ.る みだ.す みだ おさ.める",
+            "meaning": "riot, war, disorder, disturb"
+        },
+        {
+            "category": "jlptn2",
+            "character": "普",
+            "onyomi": "フ アマネ",
+            "kunyomi": "あまね.く",
+            "meaning": "universal, wide(ly), generally, Prussia"
+        },
+        {
+            "category": "jlptn2",
+            "character": "測",
+            "onyomi": "ソク",
+            "kunyomi": "はか.る",
+            "meaning": "fathom, plan, scheme, measure"
+        },
+        {
+            "category": "jlptn2",
+            "character": "豊",
+            "onyomi": "ホウ ブ ト",
+            "kunyomi": "ゆた.か",
+            "meaning": "bountiful, excellent, rich"
+        },
+        {
+            "category": "jlptn2",
+            "character": "厚",
+            "onyomi": "コウ ア",
+            "kunyomi": "あつ.い",
+            "meaning": "thick, heavy, rich, kind, cordial, brazen, shameless"
+        },
+        {
+            "category": "jlptn2",
+            "character": "齢",
+            "onyomi": "レイ",
+            "kunyomi": "よわ.い とし",
+            "meaning": "age"
+        },
+        {
+            "category": "jlptn2",
+            "character": "囲",
+            "onyomi": "イ",
+            "kunyomi": "かこ.む かこ.う かこ.い",
+            "meaning": "surround, besiege, store, paling, enclosure, encircle, preserve, keep"
+        },
+        {
+            "category": "jlptn2",
+            "character": "卒",
+            "onyomi": "ソツ シュツ",
+            "kunyomi": "そっ.する お.える お.わる ついに にわか",
+            "meaning": "graduate, soldier, private, die"
+        },
+        {
+            "category": "jlptn2",
+            "character": "略",
+            "onyomi": "リャク",
+            "kunyomi": "ほぼ おか.す おさ.める はかりごと はか.る はぶ.く りゃく.す りゃく.する",
+            "meaning": "abbreviation, omission, outline, shorten, capture, plunder"
+        },
+        {
+            "category": "jlptn2",
+            "character": "承",
+            "onyomi": "ショウ ウ.ケ",
+            "kunyomi": "うけたまわ.る",
+            "meaning": "acquiesce, hear, listen to, be informed, receive"
+        },
+        {
+            "category": "jlptn2",
+            "character": "順",
+            "onyomi": "ジュ",
+            "kunyomi": "",
+            "meaning": "obey, order, turn, right, docility, occasion"
+        },
+        {
+            "category": "jlptn2",
+            "character": "岩",
+            "onyomi": "ガン",
+            "kunyomi": "いわ",
+            "meaning": "boulder, rock, cliff"
+        },
+        {
+            "category": "jlptn2",
+            "character": "練",
+            "onyomi": "レン ネ.",
+            "kunyomi": "ね.る",
+            "meaning": "practice, gloss, train, drill, polish, refine"
+        },
+        {
+            "category": "jlptn2",
+            "character": "軽",
+            "onyomi": "ケイ",
+            "kunyomi": "かる.い かろ.やか かろ.んじる",
+            "meaning": "lightly, trifling, unimportant"
+        },
+        {
+            "category": "jlptn2",
+            "character": "了",
+            "onyomi": "リョ",
+            "kunyomi": "",
+            "meaning": "complete, finish"
+        },
+        {
+            "category": "jlptn2",
+            "character": "庁",
+            "onyomi": "チョウ テイ",
+            "kunyomi": "やくしょ",
+            "meaning": "government office"
+        },
+        {
+            "category": "jlptn2",
+            "character": "城",
+            "onyomi": "ジョウ シ",
+            "kunyomi": "",
+            "meaning": "castle"
+        },
+        {
+            "category": "jlptn2",
+            "character": "患",
+            "onyomi": "カン ワズラ.",
+            "kunyomi": "",
+            "meaning": "afflicted, disease, suffer from, be ill"
+        },
+        {
+            "category": "jlptn2",
+            "character": "層",
+            "onyomi": "ソウ",
+            "kunyomi": "",
+            "meaning": "stratum, social class, layer, story, floor"
+        },
+        {
+            "category": "jlptn2",
+            "character": "版",
+            "onyomi": "ハン",
+            "kunyomi": "",
+            "meaning": "printing block, printing plate, edition, impression, label"
+        },
+        {
+            "category": "jlptn2",
+            "character": "令",
+            "onyomi": "レ",
+            "kunyomi": "",
+            "meaning": "orders, ancient laws, command, decree"
+        },
+        {
+            "category": "jlptn2",
+            "character": "角",
+            "onyomi": "カク ツ",
+            "kunyomi": "かど",
+            "meaning": "angle, corner, square, horn, antlers"
+        },
+        {
+            "category": "jlptn2",
+            "character": "絡",
+            "onyomi": "ラク",
+            "kunyomi": "から.む から.まる",
+            "meaning": "entwine, coil around, get caught in"
+        },
+        {
+            "category": "jlptn2",
+            "character": "損",
+            "onyomi": "ソン",
+            "kunyomi": "そこ.なう そこな.う -そこ.なう そこ.ねる -そこ.ねる",
+            "meaning": "damage, loss, disadvantage, hurt, injure"
+        },
+        {
+            "category": "jlptn2",
+            "character": "募",
+            "onyomi": "ボ",
+            "kunyomi": "つの.る",
+            "meaning": "recruit, campaign, gather (contributions), enlist, grow violent"
+        },
+        {
+            "category": "jlptn2",
+            "character": "裏",
+            "onyomi": "リ",
+            "kunyomi": "うら",
+            "meaning": "back, amidst, in, reverse, inside, palm, sole, rear, lining, wrong side"
+        },
+        {
+            "category": "jlptn2",
+            "character": "仏",
+            "onyomi": "ブツ フツ",
+            "kunyomi": "ほとけ",
+            "meaning": "Buddha, the dead, France"
+        },
+        {
+            "category": "jlptn2",
+            "character": "績",
+            "onyomi": "セ",
+            "kunyomi": "",
+            "meaning": "exploits, unreeling cocoons"
+        },
+        {
+            "category": "jlptn2",
+            "character": "築",
+            "onyomi": "チク キズ.",
+            "kunyomi": "",
+            "meaning": "fabricate, build, construct"
+        },
+        {
+            "category": "jlptn2",
+            "character": "貨",
+            "onyomi": "カ",
+            "kunyomi": "",
+            "meaning": "freight, goods, property"
+        },
+        {
+            "category": "jlptn2",
+            "character": "混",
+            "onyomi": "コン",
+            "kunyomi": "ま.じる -ま.じり ま.ざる ま.ぜる こ.む",
+            "meaning": "mix, blend, confuse"
+        },
+        {
+            "category": "jlptn2",
+            "character": "昇",
+            "onyomi": "ショウ ノボ.",
+            "kunyomi": "",
+            "meaning": "rise up"
+        },
+        {
+            "category": "jlptn2",
+            "character": "池",
+            "onyomi": "チ",
+            "kunyomi": "いけ",
+            "meaning": "pond, cistern, pool, reservoir"
+        },
+        {
+            "category": "jlptn2",
+            "character": "血",
+            "onyomi": "ケツ",
+            "kunyomi": "ち",
+            "meaning": "blood"
+        },
+        {
+            "category": "jlptn2",
+            "character": "温",
+            "onyomi": "オン ヌ",
+            "kunyomi": "あたた.か あたた.かい あたた.まる あたた.める",
+            "meaning": "warm"
+        },
+        {
+            "category": "jlptn2",
+            "character": "季",
+            "onyomi": "",
+            "kunyomi": "",
+            "meaning": "seasons"
+        },
+        {
+            "category": "jlptn2",
+            "character": "星",
+            "onyomi": "セイ ショウ",
+            "kunyomi": "ほし -ぼし",
+            "meaning": "star, spot, dot, mark"
+        },
+        {
+            "category": "jlptn2",
+            "character": "永",
+            "onyomi": "エイ ナガ.",
+            "kunyomi": "",
+            "meaning": "eternity, long, lengthy"
+        },
+        {
+            "category": "jlptn2",
+            "character": "著",
+            "onyomi": "チョ チャク",
+            "kunyomi": "あらわ.す いちじる.しい",
+            "meaning": "renowned, publish, write, remarkable, phenomenal, put on, don, wear, arrival, finish (race), counter for suit"
+        },
+        {
+            "category": "jlptn2",
+            "character": "誌",
+            "onyomi": "シ",
+            "kunyomi": "",
+            "meaning": "document, records"
+        },
+        {
+            "category": "jlptn2",
+            "character": "庫",
+            "onyomi": "コ ク",
+            "kunyomi": "くら",
+            "meaning": "warehouse, storehouse"
+        },
+        {
+            "category": "jlptn2",
+            "character": "刊",
+            "onyomi": "カン",
+            "kunyomi": "",
+            "meaning": "publish, carve, engrave"
+        },
+        {
+            "category": "jlptn2",
+            "character": "像",
+            "onyomi": "ゾ",
+            "kunyomi": "",
+            "meaning": "statue, picture, image, figure, portrait"
+        },
+        {
+            "category": "jlptn2",
+            "character": "香",
+            "onyomi": "コウ キョウ カオ.",
+            "kunyomi": "か かお.り",
+            "meaning": "incense, smell, perfume"
+        },
+        {
+            "category": "jlptn2",
+            "character": "坂",
+            "onyomi": "ハン サ",
+            "kunyomi": "",
+            "meaning": "slope, incline, hill"
+        },
+        {
+            "category": "jlptn2",
+            "character": "底",
+            "onyomi": "テイ",
+            "kunyomi": "そこ",
+            "meaning": "bottom, sole, depth, bottom price, base, kind, sort"
+        },
+        {
+            "category": "jlptn2",
+            "character": "布",
+            "onyomi": "フ ヌ",
+            "kunyomi": "",
+            "meaning": "linen, cloth"
+        },
+        {
+            "category": "jlptn2",
+            "character": "寺",
+            "onyomi": "ジ",
+            "kunyomi": "てら",
+            "meaning": "Buddhist temple"
+        },
+        {
+            "category": "jlptn2",
+            "character": "宇",
+            "onyomi": "",
+            "kunyomi": "",
+            "meaning": "eaves, roof, house, heaven"
+        },
+        {
+            "category": "jlptn2",
+            "character": "巨",
+            "onyomi": "キ",
+            "kunyomi": "",
+            "meaning": "gigantic, big, large, great"
+        },
+        {
+            "category": "jlptn2",
+            "character": "震",
+            "onyomi": "シン",
+            "kunyomi": "ふる.う ふる.える",
+            "meaning": "quake, shake, tremble, quiver, shiver"
+        },
+        {
+            "category": "jlptn2",
+            "character": "希",
+            "onyomi": "キ ケ マ",
+            "kunyomi": "",
+            "meaning": "hope, beg, request, pray, beseech, Greece, dilute (acid), rare, few, phenomenal"
+        },
+        {
+            "category": "jlptn2",
+            "character": "触",
+            "onyomi": "ショク",
+            "kunyomi": "ふ.れる さわ.る さわ",
+            "meaning": "contact, touch, feel, hit, proclaim, announce, conflict"
+        },
+        {
+            "category": "jlptn2",
+            "character": "依",
+            "onyomi": "イ エ ヨ.",
+            "kunyomi": "",
+            "meaning": "reliant, depend on, consequently, therefore, due to"
+        },
+        {
+            "category": "jlptn2",
+            "character": "籍",
+            "onyomi": "セキ",
+            "kunyomi": "",
+            "meaning": "enroll, domiciliary register, membership"
+        },
+        {
+            "category": "jlptn2",
+            "character": "汚",
+            "onyomi": "オ",
+            "kunyomi": "けが.す けが.れる けが.らわしい よご.す よご.れる きたな.い",
+            "meaning": "dirty, pollute, disgrace, rape, defile"
+        },
+        {
+            "category": "jlptn2",
+            "character": "枚",
+            "onyomi": "マイ バ",
+            "kunyomi": "",
+            "meaning": "sheet of..., counter for flat thin objects or sheets"
+        },
+        {
+            "category": "jlptn2",
+            "character": "複",
+            "onyomi": "フク",
+            "kunyomi": "",
+            "meaning": "duplicate, double, compound, multiple"
+        },
+        {
+            "category": "jlptn2",
+            "character": "郵",
+            "onyomi": "ユウ",
+            "kunyomi": "",
+            "meaning": "mail, stagecoach stop"
+        },
+        {
+            "category": "jlptn2",
+            "character": "仲",
+            "onyomi": "チュウ ナ",
+            "kunyomi": "",
+            "meaning": "go-between, relationship"
+        },
+        {
+            "category": "jlptn2",
+            "character": "栄",
+            "onyomi": "エイ ヨウ",
+            "kunyomi": "さか.える は.え -ば.え は.える",
+            "meaning": "flourish, prosperity, honor, glory, splendor"
+        },
+        {
+            "category": "jlptn2",
+            "character": "札",
+            "onyomi": "サツ フ",
+            "kunyomi": "",
+            "meaning": "tag, paper money, counter for bonds, placard, bid"
+        },
+        {
+            "category": "jlptn2",
+            "character": "板",
+            "onyomi": "ハン バン",
+            "kunyomi": "いた",
+            "meaning": "plank, board, plate, stage"
+        },
+        {
+            "category": "jlptn2",
+            "character": "骨",
+            "onyomi": "コツ",
+            "kunyomi": "ほね",
+            "meaning": "skeleton, bone, remains, frame"
+        },
+        {
+            "category": "jlptn2",
+            "character": "傾",
+            "onyomi": "ケイ",
+            "kunyomi": "かたむ.く かたむ.ける かたぶ.く かた.げる かし.げる",
+            "meaning": "lean, incline, tilt, trend, wane, sink, ruin, bias"
+        },
+        {
+            "category": "jlptn2",
+            "character": "届",
+            "onyomi": "カイ",
+            "kunyomi": "とど.ける -とど.け とど.く",
+            "meaning": "deliver, reach, arrive, report, notify, forward"
+        },
+        {
+            "category": "jlptn2",
+            "character": "巻",
+            "onyomi": "カン ケン",
+            "kunyomi": "ま.く まき ま.き",
+            "meaning": "scroll, volume, book, part, roll up, wind up, tie, coil, counter for texts (or book scrolls)"
+        },
+        {
+            "category": "jlptn2",
+            "character": "燃",
+            "onyomi": "ネン",
+            "kunyomi": "も.える も.やす も.す",
+            "meaning": "burn, blaze, glow"
+        },
+        {
+            "category": "jlptn2",
+            "character": "跡",
+            "onyomi": "セキ",
+            "kunyomi": "あと",
+            "meaning": "tracks, mark, print, impression"
+        },
+        {
+            "category": "jlptn2",
+            "character": "包",
+            "onyomi": "ホウ クル.",
+            "kunyomi": "つつ.む",
+            "meaning": "wrap, pack up, cover, conceal"
+        },
+        {
+            "category": "jlptn2",
+            "character": "駐",
+            "onyomi": "チュウ",
+            "kunyomi": "",
+            "meaning": "stop-over, reside in, resident"
+        },
+        {
+            "category": "jlptn2",
+            "character": "弱",
+            "onyomi": "ジャク",
+            "kunyomi": "よわ.い よわ.る よわ.まる よわ.める",
+            "meaning": "weak, frail"
+        },
+        {
+            "category": "jlptn2",
+            "character": "紹",
+            "onyomi": "ショ",
+            "kunyomi": "",
+            "meaning": "introduce, inherit, help"
+        },
+        {
+            "category": "jlptn2",
+            "character": "雇",
+            "onyomi": "コ",
+            "kunyomi": "やと.う",
+            "meaning": "employ, hire"
+        },
+        {
+            "category": "jlptn2",
+            "character": "替",
+            "onyomi": "タイ カ.ワ",
+            "kunyomi": "か.える か.え-",
+            "meaning": "exchange, spare, substitute, per-"
+        },
+        {
+            "category": "jlptn2",
+            "character": "預",
+            "onyomi": "ヨ",
+            "kunyomi": "あず.ける あず.かる",
+            "meaning": "deposit, custody, leave with, entrust to"
+        },
+        {
+            "category": "jlptn2",
+            "character": "焼",
+            "onyomi": "ショウ ヤ.ケ",
+            "kunyomi": "や.く や.き や.き- -や.き",
+            "meaning": "bake, burning"
+        },
+        {
+            "category": "jlptn2",
+            "character": "簡",
+            "onyomi": "カン",
+            "kunyomi": "",
+            "meaning": "simplicity, brevity"
+        },
+        {
+            "category": "jlptn2",
+            "character": "章",
+            "onyomi": "ショ",
+            "kunyomi": "",
+            "meaning": "badge, chapter, composition, poem, design"
+        },
+        {
+            "category": "jlptn2",
+            "character": "臓",
+            "onyomi": "ゾウ",
+            "kunyomi": "はらわた",
+            "meaning": "entrails, viscera, bowels"
+        },
+        {
+            "category": "jlptn2",
+            "character": "律",
+            "onyomi": "リツ リチ レ",
+            "kunyomi": "",
+            "meaning": "rhythm, law, regulation, gauge, control"
+        },
+        {
+            "category": "jlptn2",
+            "character": "贈",
+            "onyomi": "ゾウ ソウ",
+            "kunyomi": "おく.る",
+            "meaning": "presents, send, give to, award to, confer on, presenting something"
+        },
+        {
+            "category": "jlptn2",
+            "character": "照",
+            "onyomi": "ショウ テ.レ",
+            "kunyomi": "て.る て.らす",
+            "meaning": "illuminate, shine, compare, bashful"
+        },
+        {
+            "category": "jlptn2",
+            "character": "薄",
+            "onyomi": "ハク",
+            "kunyomi": "うす.い うす- -うす うす.める うす.まる うす.らぐ うす.ら- うす.れる すすき",
+            "meaning": "dilute, thin, weak (tea)"
+        },
+        {
+            "category": "jlptn2",
+            "character": "群",
+            "onyomi": "グン ムラ.ガ",
+            "kunyomi": "む.れる む.れ むら",
+            "meaning": "flock, group, crowd, herd, swarm, cluster"
+        },
+        {
+            "category": "jlptn2",
+            "character": "秒",
+            "onyomi": "ビョウ",
+            "kunyomi": "",
+            "meaning": "second (1, 60 minute)"
+        },
+        {
+            "category": "jlptn2",
+            "character": "奥",
+            "onyomi": "オウ オク ク",
+            "kunyomi": "おく.まる",
+            "meaning": "heart, interior"
+        },
+        {
+            "category": "jlptn2",
+            "character": "詰",
+            "onyomi": "キツ キチ ツ.",
+            "kunyomi": "つ.める つ.め -づ.め つ.まる",
+            "meaning": "packed, close, pressed, reprove, rebuke, blame"
+        },
+        {
+            "category": "jlptn2",
+            "character": "双",
+            "onyomi": "ソウ フタ",
+            "kunyomi": "ふた たぐい ならぶ",
+            "meaning": "pair, set, comparison, counter for pairs"
+        },
+        {
+            "category": "jlptn2",
+            "character": "刺",
+            "onyomi": "シ",
+            "kunyomi": "さ.す さ.さる さ.し さし とげ",
+            "meaning": "thorn, pierce, stab, prick, sting, calling card"
+        },
+        {
+            "category": "jlptn2",
+            "character": "純",
+            "onyomi": "ジュ",
+            "kunyomi": "",
+            "meaning": "genuine, purity, innocence, net (profit)"
+        },
+        {
+            "category": "jlptn2",
+            "character": "翌",
+            "onyomi": "ヨク",
+            "kunyomi": "",
+            "meaning": "the following, next"
+        },
+        {
+            "category": "jlptn2",
+            "character": "快",
+            "onyomi": "カイ ココロヨ.",
+            "kunyomi": "",
+            "meaning": "cheerful, pleasant, agreeable, comfortable"
+        },
+        {
+            "category": "jlptn2",
+            "character": "片",
+            "onyomi": "ヘン",
+            "kunyomi": "かた- かた",
+            "meaning": "one-sided, leaf, sheet"
+        },
+        {
+            "category": "jlptn2",
+            "character": "敬",
+            "onyomi": "ケイ キョウ ウヤマ.",
+            "kunyomi": "",
+            "meaning": "awe, respect, honor, revere"
+        },
+        {
+            "category": "jlptn2",
+            "character": "悩",
+            "onyomi": "ノウ",
+            "kunyomi": "なや.む なや.ます なや.ましい なやみ",
+            "meaning": "trouble, worry, in pain, distress, illness"
+        },
+        {
+            "category": "jlptn2",
+            "character": "泉",
+            "onyomi": "セン イズ",
+            "kunyomi": "",
+            "meaning": "spring, fountain"
+        },
+        {
+            "category": "jlptn2",
+            "character": "皮",
+            "onyomi": "",
+            "kunyomi": "けがわ",
+            "meaning": "pelt, skin, hide, leather"
+        },
+        {
+            "category": "jlptn2",
+            "character": "漁",
+            "onyomi": "ギョ リョウ",
+            "kunyomi": "あさ.る",
+            "meaning": "fishing, fishery"
+        },
+        {
+            "category": "jlptn2",
+            "character": "荒",
+            "onyomi": "コウ スサ.",
+            "kunyomi": "あら.い あら- あ.れる あ.らす -あ.らし",
+            "meaning": "laid waste, rough, rude, wild"
+        },
+        {
+            "category": "jlptn2",
+            "character": "貯",
+            "onyomi": "チョ",
+            "kunyomi": "た.める たくわ.える",
+            "meaning": "savings, store, lay in, keep, wear mustache"
+        },
+        {
+            "category": "jlptn2",
+            "character": "硬",
+            "onyomi": "コウ",
+            "kunyomi": "かた.い",
+            "meaning": "stiff, hard"
+        },
+        {
+            "category": "jlptn2",
+            "character": "埋",
+            "onyomi": "マイ",
+            "kunyomi": "う.める う.まる う.もれる うず.める うず.まる い.ける",
+            "meaning": "bury, be filled up, embedded"
+        },
+        {
+            "category": "jlptn2",
+            "character": "柱",
+            "onyomi": "チュウ",
+            "kunyomi": "はしら",
+            "meaning": "pillar, post, cylinder, support"
+        },
+        {
+            "category": "jlptn2",
+            "character": "祭",
+            "onyomi": "サイ",
+            "kunyomi": "まつ.る まつ.り まつり",
+            "meaning": "ritual, offer prayers, celebrate, deify, enshrine, worship"
+        },
+        {
+            "category": "jlptn2",
+            "character": "袋",
+            "onyomi": "タイ ダイ フク",
+            "kunyomi": "",
+            "meaning": "sack, bag, pouch"
+        },
+        {
+            "category": "jlptn2",
+            "character": "筆",
+            "onyomi": "ヒツ フ",
+            "kunyomi": "",
+            "meaning": "writing brush, writing, painting brush, handwriting"
+        },
+        {
+            "category": "jlptn2",
+            "character": "訓",
+            "onyomi": "クン キン クン.ズ",
+            "kunyomi": "おし.える よ.む",
+            "meaning": "instruction, Japanese character reading, explanation, read"
+        },
+        {
+            "category": "jlptn2",
+            "character": "浴",
+            "onyomi": "ヨク ア.ビセ",
+            "kunyomi": "あ.びる",
+            "meaning": "bathe, be favored with, bask in"
+        },
+        {
+            "category": "jlptn2",
+            "character": "童",
+            "onyomi": "ドウ ワラ",
+            "kunyomi": "",
+            "meaning": "juvenile, child"
+        },
+        {
+            "category": "jlptn2",
+            "character": "宝",
+            "onyomi": "ホウ タカ",
+            "kunyomi": "",
+            "meaning": "treasure, wealth, valuables"
+        },
+        {
+            "category": "jlptn2",
+            "character": "封",
+            "onyomi": "フウ ホウ",
+            "kunyomi": "",
+            "meaning": "seal, closing"
+        },
+        {
+            "category": "jlptn2",
+            "character": "胸",
+            "onyomi": "キョウ",
+            "kunyomi": "むね むな-",
+            "meaning": "bosom, breast, chest, heart, feelings"
+        },
+        {
+            "category": "jlptn2",
+            "character": "砂",
+            "onyomi": "サ シャ ス",
+            "kunyomi": "",
+            "meaning": "sand"
+        },
+        {
+            "category": "jlptn2",
+            "character": "塩",
+            "onyomi": "エン",
+            "kunyomi": "しお",
+            "meaning": "salt"
+        },
+        {
+            "category": "jlptn2",
+            "character": "賢",
+            "onyomi": "ケン カシコ.",
+            "kunyomi": "",
+            "meaning": "intelligent, wise, wisdom, cleverness"
+        },
+        {
+            "category": "jlptn2",
+            "character": "腕",
+            "onyomi": "ワン",
+            "kunyomi": "うで",
+            "meaning": "arm, ability, talent"
+        },
+        {
+            "category": "jlptn2",
+            "character": "兆",
+            "onyomi": "チョウ",
+            "kunyomi": "きざ.す きざ.し",
+            "meaning": "portent, 10**12, trillion, sign, omen, symptoms"
+        },
+        {
+            "category": "jlptn2",
+            "character": "床",
+            "onyomi": "ショウ",
+            "kunyomi": "とこ ゆか",
+            "meaning": "bed, floor, padding, tatami"
+        },
+        {
+            "category": "jlptn2",
+            "character": "毛",
+            "onyomi": "モウ",
+            "kunyomi": "",
+            "meaning": "fur, hair, feather, down"
+        },
+        {
+            "category": "jlptn2",
+            "character": "緑",
+            "onyomi": "リョク ロク",
+            "kunyomi": "みどり",
+            "meaning": "green"
+        },
+        {
+            "category": "jlptn2",
+            "character": "尊",
+            "onyomi": "ソン トウト.",
+            "kunyomi": "たっと.い とうと.い たっと.ぶ",
+            "meaning": "revered, valuable, precious, noble, exalted"
+        },
+        {
+            "category": "jlptn2",
+            "character": "祝",
+            "onyomi": "シュク シュウ イワ.",
+            "kunyomi": "",
+            "meaning": "celebrate, congratulate"
+        },
+        {
+            "category": "jlptn2",
+            "character": "柔",
+            "onyomi": "ジュウ ニュウ ヤワ.",
+            "kunyomi": "やわ.らか やわ.らかい やわ",
+            "meaning": "tender, weakness, gentleness, softness"
+        },
+        {
+            "category": "jlptn2",
+            "character": "殿",
+            "onyomi": "デン テン -ド",
+            "kunyomi": "との",
+            "meaning": "Mr., hall, mansion, palace, temple, lord"
+        },
+        {
+            "category": "jlptn2",
+            "character": "濃",
+            "onyomi": "ノウ コ.",
+            "kunyomi": "",
+            "meaning": "concentrated, thick, dark, undiluted"
+        },
+        {
+            "category": "jlptn2",
+            "character": "液",
+            "onyomi": "エキ",
+            "kunyomi": "",
+            "meaning": "fluid, liquid, juice, sap, secretion"
+        },
+        {
+            "category": "jlptn2",
+            "character": "衣",
+            "onyomi": "イ エ",
+            "kunyomi": "ころも きぬ -ぎ",
+            "meaning": "garment, clothes, dressing"
+        },
+        {
+            "category": "jlptn2",
+            "character": "肩",
+            "onyomi": "ケン",
+            "kunyomi": "かた",
+            "meaning": "shoulder"
+        },
+        {
+            "category": "jlptn2",
+            "character": "零",
+            "onyomi": "レイ",
+            "kunyomi": "ぜろ こぼ.す こぼ.れる",
+            "meaning": "zero, spill, overflow, nothing, cipher"
+        },
+        {
+            "category": "jlptn2",
+            "character": "幼",
+            "onyomi": "ヨウ オサナ.",
+            "kunyomi": "",
+            "meaning": "infancy, childhood"
+        },
+        {
+            "category": "jlptn2",
+            "character": "荷",
+            "onyomi": "カ",
+            "kunyomi": "",
+            "meaning": "baggage, shoulder-pole load, bear (a burden), shoulder (a gun), load, cargo, freight"
+        },
+        {
+            "category": "jlptn2",
+            "character": "泊",
+            "onyomi": "ハク ト.メ",
+            "kunyomi": "と.まる",
+            "meaning": "overnight, put up at, ride at anchor, 3-day stay"
+        },
+        {
+            "category": "jlptn2",
+            "character": "黄",
+            "onyomi": "コウ オウ",
+            "kunyomi": "き こ",
+            "meaning": "yellow"
+        },
+        {
+            "category": "jlptn2",
+            "character": "甘",
+            "onyomi": "カン ウマ.",
+            "kunyomi": "あま.い あま.える あま.やかす",
+            "meaning": "sweet, coax, pamper, be content, sugary"
+        },
+        {
+            "category": "jlptn2",
+            "character": "臣",
+            "onyomi": "シン ジ",
+            "kunyomi": "",
+            "meaning": "retainer, subject"
+        },
+        {
+            "category": "jlptn2",
+            "character": "浅",
+            "onyomi": "セン アサ.",
+            "kunyomi": "",
+            "meaning": "shallow, superficial, frivolous, wretched, shameful"
+        },
+        {
+            "category": "jlptn2",
+            "character": "掃",
+            "onyomi": "ソウ シュ ハ.",
+            "kunyomi": "",
+            "meaning": "sweep, brush"
+        },
+        {
+            "category": "jlptn2",
+            "character": "雲",
+            "onyomi": "ウン -グ",
+            "kunyomi": "くも",
+            "meaning": "cloud"
+        },
+        {
+            "category": "jlptn2",
+            "character": "掘",
+            "onyomi": "クツ ホ.",
+            "kunyomi": "",
+            "meaning": "dig, delve, excavate"
+        },
+        {
+            "category": "jlptn2",
+            "character": "捨",
+            "onyomi": "シャ",
+            "kunyomi": "す.てる",
+            "meaning": "discard, throw away, abandon, resign, reject, sacrifice"
+        },
+        {
+            "category": "jlptn2",
+            "character": "軟",
+            "onyomi": "ナン",
+            "kunyomi": "やわ.らか やわ.らかい",
+            "meaning": "soft"
+        },
+        {
+            "category": "jlptn2",
+            "character": "沈",
+            "onyomi": "チン ジン シズ.メ",
+            "kunyomi": "しず.む",
+            "meaning": "sink, be submerged, subside, be depressed, aloes"
+        },
+        {
+            "category": "jlptn2",
+            "character": "凍",
+            "onyomi": "トウ シ.ミ",
+            "kunyomi": "こお.る こご.える こご.る い.てる",
+            "meaning": "frozen, congeal, refrigerate"
+        },
+        {
+            "category": "jlptn2",
+            "character": "乳",
+            "onyomi": "ニュウ",
+            "kunyomi": "ちち ち",
+            "meaning": "milk, breasts"
+        },
+        {
+            "category": "jlptn2",
+            "character": "恋",
+            "onyomi": "レン",
+            "kunyomi": "こ.う こい こい.しい",
+            "meaning": "romance, in love, yearn for, miss, darling"
+        },
+        {
+            "category": "jlptn2",
+            "character": "紅",
+            "onyomi": "コウ ク アカ.",
+            "kunyomi": "べに くれない",
+            "meaning": "crimson, deep red"
+        },
+        {
+            "category": "jlptn2",
+            "character": "郊",
+            "onyomi": "コウ",
+            "kunyomi": "",
+            "meaning": "outskirts, suburbs, rural area"
+        },
+        {
+            "category": "jlptn2",
+            "character": "腰",
+            "onyomi": "ヨウ コ",
+            "kunyomi": "",
+            "meaning": "loins, hips, waist, low wainscoting"
+        },
+        {
+            "category": "jlptn2",
+            "character": "炭",
+            "onyomi": "タン",
+            "kunyomi": "すみ",
+            "meaning": "charcoal, coal"
+        },
+        {
+            "category": "jlptn2",
+            "character": "踊",
+            "onyomi": "ヨウ",
+            "kunyomi": "おど.る",
+            "meaning": "jump, dance, leap, skip"
+        },
+        {
+            "category": "jlptn2",
+            "character": "冊",
+            "onyomi": "サツ サク",
+            "kunyomi": "ふみ",
+            "meaning": "tome, counter for books, volume"
+        },
+        {
+            "category": "jlptn2",
+            "character": "勇",
+            "onyomi": "ユウ イサ.",
+            "kunyomi": "",
+            "meaning": "courage, cheer up, be in high spirits, bravery, heroism"
+        },
+        {
+            "category": "jlptn2",
+            "character": "械",
+            "onyomi": "カイ",
+            "kunyomi": "かせ",
+            "meaning": "contraption, fetter, machine, instrument"
+        },
+        {
+            "category": "jlptn2",
+            "character": "菜",
+            "onyomi": "サイ",
+            "kunyomi": "",
+            "meaning": "vegetable, side dish, greens"
+        },
+        {
+            "category": "jlptn2",
+            "character": "珍",
+            "onyomi": "チン タカ",
+            "kunyomi": "めずら.しい",
+            "meaning": "rare, curious, strange"
+        },
+        {
+            "category": "jlptn2",
+            "character": "卵",
+            "onyomi": "ラン",
+            "kunyomi": "たまご",
+            "meaning": "egg, ovum, spawn, roe"
+        },
+        {
+            "category": "jlptn2",
+            "character": "湖",
+            "onyomi": "コ ミズウ",
+            "kunyomi": "",
+            "meaning": "lake"
+        },
+        {
+            "category": "jlptn2",
+            "character": "喫",
+            "onyomi": "キツ",
+            "kunyomi": "",
+            "meaning": "consume, eat, drink, smoke, receive (a blow)"
+        },
+        {
+            "category": "jlptn2",
+            "character": "干",
+            "onyomi": "カン ヒ.",
+            "kunyomi": "ほ.す ほ.し- -ぼ.し",
+            "meaning": "dry, parch"
+        },
+        {
+            "category": "jlptn2",
+            "character": "虫",
+            "onyomi": "チュウ キ ム",
+            "kunyomi": "",
+            "meaning": "insect, bug, temper"
+        },
+        {
+            "category": "jlptn2",
+            "character": "刷",
+            "onyomi": "サツ",
+            "kunyomi": "す.る -ず.り -ずり は.く",
+            "meaning": "printing, print"
+        },
+        {
+            "category": "jlptn2",
+            "character": "湯",
+            "onyomi": "トウ",
+            "kunyomi": "ゆ",
+            "meaning": "hot water, bath, hot spring"
+        },
+        {
+            "category": "jlptn2",
+            "character": "溶",
+            "onyomi": "ヨウ",
+            "kunyomi": "と.ける と.かす と.く",
+            "meaning": "melt, dissolve, thaw"
+        },
+        {
+            "category": "jlptn2",
+            "character": "鉱",
+            "onyomi": "コウ",
+            "kunyomi": "あらがね",
+            "meaning": "mineral, ore"
+        },
+        {
+            "category": "jlptn2",
+            "character": "涙",
+            "onyomi": "ルイ レイ",
+            "kunyomi": "なみだ",
+            "meaning": "tears, sympathy"
+        },
+        {
+            "category": "jlptn2",
+            "character": "匹",
+            "onyomi": "ヒツ",
+            "kunyomi": "ひき",
+            "meaning": "equal, head, counter for small animals, roll of cloth"
+        },
+        {
+            "category": "jlptn2",
+            "character": "孫",
+            "onyomi": "ソン マ",
+            "kunyomi": "",
+            "meaning": "grandchild, descendants"
+        },
+        {
+            "category": "jlptn2",
+            "character": "鋭",
+            "onyomi": "エイ スルド.",
+            "kunyomi": "",
+            "meaning": "pointed, sharpness, edge, weapon, sharp, violent"
+        },
+        {
+            "category": "jlptn2",
+            "character": "枝",
+            "onyomi": "シ エ",
+            "kunyomi": "",
+            "meaning": "bough, branch, twig, limb"
+        },
+        {
+            "category": "jlptn2",
+            "character": "塗",
+            "onyomi": "ト",
+            "kunyomi": "ぬ.る ぬ.り まみ.れる",
+            "meaning": "paint, plaster, daub, smear, coating"
+        },
+        {
+            "category": "jlptn2",
+            "character": "軒",
+            "onyomi": "ケン",
+            "kunyomi": "のき",
+            "meaning": "flats, counter for houses, eaves"
+        },
+        {
+            "category": "jlptn2",
+            "character": "毒",
+            "onyomi": "ドク",
+            "kunyomi": "",
+            "meaning": "poison, virus, venom, germ, harm, injury, spite"
+        },
+        {
+            "category": "jlptn2",
+            "character": "叫",
+            "onyomi": "キョウ",
+            "kunyomi": "さけ.ぶ",
+            "meaning": "shout, exclaim, yell"
+        },
+        {
+            "category": "jlptn2",
+            "character": "拝",
+            "onyomi": "ハイ",
+            "kunyomi": "おが.む おろが.む",
+            "meaning": "worship, adore, pray to"
+        },
+        {
+            "category": "jlptn2",
+            "character": "氷",
+            "onyomi": "ヒョウ コオ.",
+            "kunyomi": "こおり ひ",
+            "meaning": "icicle, ice, hail, freeze, congeal"
+        },
+        {
+            "category": "jlptn2",
+            "character": "乾",
+            "onyomi": "カン ケン",
+            "kunyomi": "かわ.く かわ.かす ほ.す ひ.る いぬい",
+            "meaning": "drought, dry, dessicate, drink up, heaven, emperor"
+        },
+        {
+            "category": "jlptn2",
+            "character": "棒",
+            "onyomi": "ボウ",
+            "kunyomi": "",
+            "meaning": "rod, stick, cane, pole, club, line"
+        },
+        {
+            "category": "jlptn2",
+            "character": "祈",
+            "onyomi": "キ イノ.",
+            "kunyomi": "",
+            "meaning": "pray, wish"
+        },
+        {
+            "category": "jlptn2",
+            "character": "拾",
+            "onyomi": "シュウ ジュウ",
+            "kunyomi": "ひろ.う",
+            "meaning": "pick up, gather, find, go on foot, ten"
+        },
+        {
+            "category": "jlptn2",
+            "character": "粉",
+            "onyomi": "フン デシメートル",
+            "kunyomi": "こ こな",
+            "meaning": "flour, powder, dust"
+        },
+        {
+            "category": "jlptn2",
+            "character": "糸",
+            "onyomi": "シ",
+            "kunyomi": "いと",
+            "meaning": "thread"
+        },
+        {
+            "category": "jlptn2",
+            "character": "綿",
+            "onyomi": "メン ワ",
+            "kunyomi": "",
+            "meaning": "cotton"
+        },
+        {
+            "category": "jlptn2",
+            "character": "汗",
+            "onyomi": "カン",
+            "kunyomi": "あせ",
+            "meaning": "sweat, perspire"
+        },
+        {
+            "category": "jlptn2",
+            "character": "銅",
+            "onyomi": "ドウ",
+            "kunyomi": "あかがね",
+            "meaning": "copper"
+        },
+        {
+            "category": "jlptn2",
+            "character": "湿",
+            "onyomi": "シツ シュウ",
+            "kunyomi": "しめ.る しめ.す うるお.う うるお.す",
+            "meaning": "damp, wet, moist"
+        },
+        {
+            "category": "jlptn2",
+            "character": "瓶",
+            "onyomi": "ビン カ",
+            "kunyomi": "",
+            "meaning": "flower pot, bottle, vial, jar, jug, vat, urn"
+        },
+        {
+            "category": "jlptn2",
+            "character": "咲",
+            "onyomi": "ショウ -ザ",
+            "kunyomi": "さ.く",
+            "meaning": "blossom, bloom"
+        },
+        {
+            "category": "jlptn2",
+            "character": "召",
+            "onyomi": "ショウ",
+            "kunyomi": "め.す",
+            "meaning": "seduce, call, send for, wear, put on, ride in, buy, eat, drink, catch (cold)"
+        },
+        {
+            "category": "jlptn2",
+            "character": "缶",
+            "onyomi": "カン カ",
+            "kunyomi": "",
+            "meaning": "tin can, container"
+        },
+        {
+            "category": "jlptn2",
+            "character": "隻",
+            "onyomi": "セキ",
+            "kunyomi": "",
+            "meaning": "vessels, counter for ships, fish, birds, arrows, one of a pair"
+        },
+        {
+            "category": "jlptn2",
+            "character": "脂",
+            "onyomi": "シ",
+            "kunyomi": "あぶら",
+            "meaning": "fat, grease, tallow, lard, rosin, gum, tar"
+        },
+        {
+            "category": "jlptn2",
+            "character": "蒸",
+            "onyomi": "ジョウ セイ",
+            "kunyomi": "む.す む.れる む.らす",
+            "meaning": "steam, heat, sultry, foment, get musty"
+        },
+        {
+            "category": "jlptn2",
+            "character": "肌",
+            "onyomi": "キ",
+            "kunyomi": "はだ",
+            "meaning": "texture, skin, body, grain"
+        },
+        {
+            "category": "jlptn2",
+            "character": "耕",
+            "onyomi": "コウ タガヤ.",
+            "kunyomi": "",
+            "meaning": "till, plow, cultivate"
+        },
+        {
+            "category": "jlptn2",
+            "character": "鈍",
+            "onyomi": "ドン",
+            "kunyomi": "にぶ.い にぶ.る にぶ- なま.る なまく.ら",
+            "meaning": "dull, slow, foolish, blunt"
+        },
+        {
+            "category": "jlptn2",
+            "character": "泥",
+            "onyomi": "デイ ナイ デ ニ ド",
+            "kunyomi": "",
+            "meaning": "mud, mire, adhere to, be attached to"
+        },
+        {
+            "category": "jlptn2",
+            "character": "隅",
+            "onyomi": "グウ",
+            "kunyomi": "すみ",
+            "meaning": "corner, nook"
+        },
+        {
+            "category": "jlptn2",
+            "character": "灯",
+            "onyomi": "トウ",
+            "kunyomi": "ひ ほ- ともしび とも.す あかり",
+            "meaning": "lamp, a light, light, counter for lights"
+        },
+        {
+            "category": "jlptn2",
+            "character": "辛",
+            "onyomi": "シン",
+            "kunyomi": "から.い つら.い -づら.い かのと",
+            "meaning": "spicy, bitter, hot, acrid"
+        },
+        {
+            "category": "jlptn2",
+            "character": "磨",
+            "onyomi": "マ ス.",
+            "kunyomi": "みが.く",
+            "meaning": "grind, polish, scour, improve, brush (teeth)"
+        },
+        {
+            "category": "jlptn2",
+            "character": "麦",
+            "onyomi": "バク",
+            "kunyomi": "むぎ",
+            "meaning": "barley, wheat"
+        },
+        {
+            "category": "jlptn2",
+            "character": "姓",
+            "onyomi": "セイ ショウ",
+            "kunyomi": "",
+            "meaning": "surname"
+        },
+        {
+            "category": "jlptn2",
+            "character": "筒",
+            "onyomi": "トウ",
+            "kunyomi": "つつ",
+            "meaning": "cylinder, pipe, tube, gun barrel, sleeve"
+        },
+        {
+            "category": "jlptn2",
+            "character": "鼻",
+            "onyomi": "ビ",
+            "kunyomi": "はな",
+            "meaning": "nose, snout"
+        },
+        {
+            "category": "jlptn2",
+            "character": "粒",
+            "onyomi": "リュウ",
+            "kunyomi": "つぶ",
+            "meaning": "grains, drop, counter for tiny particles"
+        },
+        {
+            "category": "jlptn2",
+            "character": "詞",
+            "onyomi": "シ",
+            "kunyomi": "",
+            "meaning": "part of speech, words, poetry"
+        },
+        {
+            "category": "jlptn2",
+            "character": "胃",
+            "onyomi": "イ",
+            "kunyomi": "",
+            "meaning": "stomach, paunch, crop, craw"
+        },
+        {
+            "category": "jlptn2",
+            "character": "畳",
+            "onyomi": "ジョウ チョウ",
+            "kunyomi": "たた.む たたみ かさ.なる",
+            "meaning": "tatami mat, counter for tatami mats, fold, shut up, do away with"
+        },
+        {
+            "category": "jlptn2",
+            "character": "机",
+            "onyomi": "キ",
+            "kunyomi": "つくえ",
+            "meaning": "desk, table"
+        },
+        {
+            "category": "jlptn2",
+            "character": "膚",
+            "onyomi": "フ",
+            "kunyomi": "はだ",
+            "meaning": "skin, body, grain, texture, disposition"
+        },
+        {
+            "category": "jlptn2",
+            "character": "濯",
+            "onyomi": "タク",
+            "kunyomi": "すす.ぐ ゆす.ぐ",
+            "meaning": "laundry, wash, pour on, rinse"
+        },
+        {
+            "category": "jlptn2",
+            "character": "塔",
+            "onyomi": "トウ",
+            "kunyomi": "",
+            "meaning": "pagoda, tower, steeple"
+        },
+        {
+            "category": "jlptn2",
+            "character": "沸",
+            "onyomi": "フツ",
+            "kunyomi": "わ.く わ.かす",
+            "meaning": "seethe, boil, ferment, uproar, breed"
+        },
+        {
+            "category": "jlptn2",
+            "character": "灰",
+            "onyomi": "カイ",
+            "kunyomi": "はい",
+            "meaning": "ashes, puckery juice, cremate"
+        },
+        {
+            "category": "jlptn2",
+            "character": "菓",
+            "onyomi": "カ",
+            "kunyomi": "",
+            "meaning": "candy, cakes, fruit"
+        },
+        {
+            "category": "jlptn2",
+            "character": "帽",
+            "onyomi": "ボウ モウ",
+            "kunyomi": "ずきん おお.う",
+            "meaning": "cap, headgear"
+        },
+        {
+            "category": "jlptn2",
+            "character": "枯",
+            "onyomi": "コ",
+            "kunyomi": "か.れる か.らす",
+            "meaning": "wither, die, dry up, be seasoned"
+        },
+        {
+            "category": "jlptn2",
+            "character": "涼",
+            "onyomi": "リョウ マコト",
+            "kunyomi": "すず.しい すず.む すず.やか うす.い ひや.す",
+            "meaning": "refreshing, nice and cool"
+        },
+        {
+            "category": "jlptn2",
+            "character": "舟",
+            "onyomi": "シュウ",
+            "kunyomi": "ふね ふな- -ぶね",
+            "meaning": "boat, ship"
+        },
+        {
+            "category": "jlptn2",
+            "character": "貝",
+            "onyomi": "バイ",
+            "kunyomi": "かい",
+            "meaning": "shellfish"
+        },
+        {
+            "category": "jlptn2",
+            "character": "符",
+            "onyomi": "フ",
+            "kunyomi": "",
+            "meaning": "token, sign, mark, tally, charm"
+        },
+        {
+            "category": "jlptn2",
+            "character": "憎",
+            "onyomi": "ゾウ",
+            "kunyomi": "にく.む にく.い にく.らしい にく.しみ",
+            "meaning": "hate, detest"
+        },
+        {
+            "category": "jlptn2",
+            "character": "皿",
+            "onyomi": "ベイ",
+            "kunyomi": "さら",
+            "meaning": "dish, a helping, plate"
+        },
+        {
+            "category": "jlptn2",
+            "character": "肯",
+            "onyomi": "コウ",
+            "kunyomi": "がえんじ.る",
+            "meaning": "agreement, consent, comply with"
+        },
+        {
+            "category": "jlptn2",
+            "character": "燥",
+            "onyomi": "ソウ",
+            "kunyomi": "はしゃ.ぐ",
+            "meaning": "parch, dry up"
+        },
+        {
+            "category": "jlptn2",
+            "character": "畜",
+            "onyomi": "チク",
+            "kunyomi": "",
+            "meaning": "livestock, domestic fowl and animals"
+        },
+        {
+            "category": "jlptn2",
+            "character": "挟",
+            "onyomi": "キョウ ショウ",
+            "kunyomi": "はさ.む はさ.まる わきばさ.む さしはさ.む",
+            "meaning": "pinch, between"
+        },
+        {
+            "category": "jlptn2",
+            "character": "曇",
+            "onyomi": "ドン クモ.",
+            "kunyomi": "",
+            "meaning": "cloudy weather, cloud up"
+        },
+        {
+            "category": "jlptn2",
+            "character": "滴",
+            "onyomi": "テキ",
+            "kunyomi": "しずく したた.る",
+            "meaning": "drip, drop"
+        },
+        {
+            "category": "jlptn2",
+            "character": "伺",
+            "onyomi": "シ",
+            "kunyomi": "うかが.う",
+            "meaning": "pay respects, visit, ask, inquire, question, implore"
+        }
+    ]
+}
